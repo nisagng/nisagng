@@ -1,4 +1,4 @@
-# Selam! Ben [Nisanur Güngör] 👋
+# Selam! 
 
 Ankara Üniversitesi İstatistik Bölümü öğrencisiyim. Veri bilimi, veri analitiği ve yazılım geliştirme alanlarına odaklanıyor; verilerden anlamlı hikayeler çıkarmayı ve fonksiyonel uygulamalar geliştirmeyi seviyorum.
 
