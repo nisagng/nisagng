@@ -1,36 +1,40 @@
-# Selam! 
+Hi, I'm Nisanur Güngör 🚀
+Statistics @ Ankara University | AI & Data Enthusiast | Software Development Intern
 
-Ankara Üniversitesi İstatistik Bölümü öğrencisiyim. Veri bilimi, veri analitiği ve yazılım geliştirme alanlarına odaklanıyor; verilerden anlamlı hikayeler çıkarmayı ve fonksiyonel uygulamalar geliştirmeyi seviyorum.
+I bridge the gap between statistical theory and artificial intelligence. As a third-year Statistics student and an active Software Development Intern, I specialize in building autonomous AI agents, robust backend systems, and data-driven pipelines. My focus is on transforming raw data into actionable insights and developing intelligent, automated workflows that solve real-world problems.
 
----
+🧠 Areas of Expertise
+Generative AI & LLMs: Autonomous Agents, RAG Architectures, Prompt Engineering, API Integrations (Amazon Bedrock, Nova Pro).
 
-### 🚀 Hakkımda
-- 📊 **Odak Alanlarım:** Veri Önişleme (Data Cleaning), Veri Analizi, Optimizasyon ve Veritabanı Yönetimi.
-- 🛠️ **Ne Yapıyorum?** Projelerimde veri manipülasyonu, backend geliştirme ve otomasyon süreçlerine odaklanıyorum.
-- ⚡ **Topluluk:** Akademik ve profesyonel ağları güçlendirmek adına öğrenci topluluklarında aktif roller üstleniyorum.
+Data Science & Analytics: Statistical Modeling, Data Preprocessing, Probability Simulations, Data Annotation.
 
----
+Backend & Architecture: Relational Databases, Automated Workflows, Dynamic Web Infrastructures.
 
-### 🛠️ Teknolojiler ve Araçlar
+💼 Engineering Highlights & Projects
+Autonomous Content Generation Systems
+Engineered an autonomous AI agent utilizing Amazon Bedrock. Implemented backend functions and prompt instructions to produce structured, fully formatted HTML blog posts, significantly optimizing content pipelines.
 
-| Alan | Teknolojiler |
-| :--- | :--- |
-| **Programlama Dilleri** | Python, R, C++, C#, SQL |
-| **Veritabanları** | SQLite |
-| **Web & Backend** | Node.js, Express, HTML, CSS |
-| **Araçlar & Sürüm Kontrolü** | Git, GitHub, VS Code |
+Intelligent Grant Automation Workflow
+Developed an automated agent integrating the Tavily API and Nova Pro to extract real-time grant opportunities. Built a workflow that automatically processes form fields and drafts tailored application responses.
 
----
+Dynamic Corporate Web Architecture
+Designed and developed a comprehensive blog interface featuring a dynamic headline slider and a custom administration panel with seamless MySQL integration.
 
-### 📈 GitHub İstatistiklerim
+Advanced Statistical Simulations
+Developed complex R scripts to simulate probability distribution functions, multivariable calculus limits, and differential equations for advanced analytical modeling.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=dark" alt="Top Langs" height="150" />
-</p>
+🛠️ Technical Toolbox
+Languages: Python, R, C#, C++, SQL, JavaScript
 
----
+Web & Backend: Node.js, Express, HTML/CSS, MySQL
 
-### 🔗 İletişim
-- 💼 [LinkedIn Profilim](www.linkedin.com/in/nisanurgungor)
-- 📧 [E-posta Adresim](nisanurgungor54@gmail.com)
+AI & Data Ops: Amazon Bedrock, Label Studio, RAG Frameworks
+
+Workflow & Dev Tools: Git, GitHub, VS Code
+
+🤝 Let's Connect
+I am always open to discussing AI engineering, data analytics, and backend architecture.
+
+💼 LinkedIn: linkedin.com/in/nisanurgungor
+
+📧 Email: nisanurgungor54@gmail.com
