@@ -1,4 +1,4 @@
-# Hi, I'm Nisanur (Nisa) Güngör 🚀
+# Hi, I'm Nisanur Güngör 🚀
 
 **Statistics @ Ankara University | AI & Data Enthusiast | Software Development Intern**
 
